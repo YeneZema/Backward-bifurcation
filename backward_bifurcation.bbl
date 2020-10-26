@@ -1,0 +1,112 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{who}
+W.H.O., Malaria report,
+  \url{http://www.who.int/malaria/publications/world-malaria-report-2015/report/en/}
+  (2015).
+
+\bibitem{Ross11}
+R.~Ross, The prevention of malaria, John Murray; London, 1911.
+
+\bibitem{12AronMay}
+R.~M. Anderson, R.~M. May, B.~Anderson, Infectious diseases of humans: dynamics
+  and control, Vol.~28, Wiley Online Library, 1992.
+
+\bibitem{Macdonald57}
+G.~Macdonald, et~al., The epidemiology and control of malaria., The
+  Epidemiology and Control of Malaria.
+
+\bibitem{AronMay}
+J.~L. Aron, R.~M. May, The population dynamics of malaria, in: The population
+  dynamics of infectious diseases: theory and applications, Springer, 1982, pp.
+  139--179.
+
+\bibitem{Dietz}
+K.~Dietz, Mathematical models for transmission and control of malaria,
+  Principles and Practice of Malariology (1988) 1091--1133.
+
+\bibitem{AronJL}
+J.~L. Aron, Mathematical modelling of immunity to malaria, Mathematical
+  Biosciences 90~(1-2) (1988) 385--396.
+
+\bibitem{Filipe}
+J.~A. Filipe, E.~M. Riley, C.~J. Drakeley, C.~J. Sutherland, A.~C. Ghani,
+  Determination of the processes driving the acquisition of immunity to malaria
+  using a mathematical transmission model, PLoS Comput Biol 3~(12) (2007) e255.
+
+\bibitem{Gupta1}
+S.~Gupta, J.~Swinton, R.~M. Anderson, Theoretical studies of the effects of
+  heterogeneity in the parasite population on the transmission dynamics of
+  malaria, Proceedings of the Royal Society of London B: Biological Sciences
+  256~(1347) (1994) 231--238.
+
+\bibitem{Gupta2}
+S.~Gupta, A.~V. Hill, Dynamic interactions in malaria: host heterogeneity meets
+  parasite polymorphism, Proceedings of the Royal Society of London B:
+  Biological Sciences 261~(1362) (1995) 271--277.
+
+\bibitem{Hasi}
+G.~Hasibeder, C.~Dye, Population dynamics of mosquito-borne disease:
+  persistence in a completely heterogeneous environment, Theoretical population
+  biology 33~(1) (1988) 31--53.
+
+\bibitem{Rodrig}
+D.~J. Rodr{\'\i}guez, L.~Torres-Sorando, Models of infectious diseases in
+  spatially heterogeneous environments, Bulletin of Mathematical Biology 63~(3)
+  (2001) 547--571.
+
+\bibitem{Torre}
+L.~Torres-Sorando, D.~J. Rodr{\i}guez, Models of spatio-temporal dynamics in
+  malaria, Ecological modelling 104~(2) (1997) 231--240.
+
+\bibitem{Yang}
+H.~Yang, H.~Wei, X.~Li, Global stability of an epidemic model for vector-borne
+  disease, Journal of Systems Science and Complexity 23~(2) (2010) 279--292.
+
+\bibitem{Gebre}
+A.~A. Gebremeskel, H.~E. Krogstad, Mathematical modelling of endemic malaria
+  transmission, American Journal of Applied Mathematics 3~(2) (2015) 36--46.
+
+\bibitem{Maia}
+M.~Martcheva, Introduction to Mathematical Epidemiology, Vol.~61, Springer,
+  2015.
+
+\bibitem{Kenrad}
+K.~E. Nelson, C.~Williams, Infectious disease epidemiology, Jones \& Bartlett
+  Publishers, 2013.
+
+\bibitem{Addo}
+D.~Addo, Mathematical model for the control of malaria, Ph.D. thesis,
+  University Of Cape Coast (2009).
+
+\bibitem{heffernan2005}
+J.~Heffernan, R.~Smith, L.~Wahl, Perspectives on the basic reproductive ratio,
+  Journal of the Royal Society Interface 2~(4) (2005) 281--293.
+
+\bibitem{Watmough}
+P.~Van~den Driessche, J.~Watmough, Reproduction numbers and sub-threshold
+  endemic equilibria for compartmental models of disease transmission,
+  Mathematical biosciences 180~(1) (2002) 29--48.
+
+\bibitem{Khalil}
+H.~Khalil, Nonlinear Systems, Prentice Hall, 2002.
+
+\bibitem{Abba}
+A.~Gumel, Causes of backward bifurcations in some epidemiological models,
+  Journal of Mathematical Analysis and Applications 395~(1) (2012) 355--365.
+
+\bibitem{Song}
+C.~Castillo-Chavez, B.~Song, Dynamical models of tuberculosis and their
+  applications, Mathematical biosciences and engineering 1~(2) (2004) 361--404.
+
+\bibitem{Lashari2011}
+A.~A. Lashari, G.~Zaman, Global dynamics of vector-borne diseases with
+  horizontal transmission in host population, Computers \& Mathematics with
+  Applications 61~(4) (2011) 745--754.
+
+\end{thebibliography}
